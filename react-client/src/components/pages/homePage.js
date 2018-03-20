@@ -1,6 +1,4 @@
 import React from 'react';
-import Typography from 'material-ui/typography'
-import Divider from 'material-ui/divider'
 
 const HomePage = () => {
   return (
