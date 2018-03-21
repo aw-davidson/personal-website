@@ -22,7 +22,7 @@ const HomePage = () => {
             <div>
               <h2>Alec Davidson</h2>
               <p>
-                After working at Women Tech Founders and sharing the stories of passionate entrepreneurs, I became insatiably interested in all things tech. I cultivated this interest through college with classes in CS and small business, while also majoring in philosophy and religious studies. After graduating from school in 2017 I quickly applied to Fullstack Academy to learn more about Javascript and hone my skills as a software developer.
+                After working at Women Tech Founders and sharing the stories of passionate entrepreneurs, I became insatiably interested in all things tech. I cultivated this interest through college with classes in CS and small business, while also majoring in philosophy and religious studies. After graduating from school in 2017, I quickly applied to Fullstack Academy to learn more about Javascript and hone my skills as a software developer.
               </p>
             </div>
           </div>
