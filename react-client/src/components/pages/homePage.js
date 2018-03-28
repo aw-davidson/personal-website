@@ -183,7 +183,7 @@ const HomePage = () => {
           </div>
           <div className="content">
             <div>
-              <h2>davidson9076@gmail.com</h2><br />
+              <a href="mailto:davidson9076@gmail.com"><h2>davidson9076@gmail.com</h2></a><br />
               <a target="_blank" href="https://www.linkedin.com/in/alecdavidson"><h2>www.linkedin.com/in/alecdavidson</h2></a><br />
               <a rel="noopener noreferrer" target="_blank" href="https://github.com/aw-davidson">
                 <h2>github.com/aw-davidson</h2>
