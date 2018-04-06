@@ -2,6 +2,11 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const PORT = process.env.PORT || 8080;
 const path = require('path');
+var http = require("http");
+
+setInterval(function() {
+    http.get("http://alecdavidson.com");
+}, 300000);
 
 const app = express();
 app.use(express.static(`${__dirname}/../react-client/dist`));
