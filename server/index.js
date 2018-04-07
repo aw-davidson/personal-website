@@ -6,6 +6,7 @@ var http = require("http");
 
 setInterval(function() {
     http.get("http://alecdavidson.com");
+    http.get("http://alec-davidson.herokuapp.com");
 }, 300000);
 
 const app = express();
