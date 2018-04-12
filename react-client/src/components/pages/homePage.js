@@ -9,7 +9,7 @@ const HomePage = () => {
         </div>
         <div className="section-content wow fadeInUp" style={{ visibility: 'visible', animationName: "fadeInUp" }}>
           <h1>FULL-STACK ENGINEER</h1>
-          <div className="small"><em>NodeJS, React, Express, Sequelize</em></div>
+          {/*<div className="small"><em>From Node to React and Everything inbetween</em></div>*/}
           <p>Specializing in full-stack Javascript applications</p>
         </div>
       </div>
@@ -174,7 +174,42 @@ const HomePage = () => {
             </div>
           </div>
         </div>
-  </div>
+      </div>
+      <div className="section blue-bg">
+        <div className="section-content wow fadeInUp" style={{ visibility: 'visible', animationName: 'fadeInUp' }}>
+          <div className="title">
+            <h1>WRITING</h1>
+          </div>
+          <div className="content">
+            <div>
+              <a target="_blank" href="https://medium.com/@davidson9076/elm-for-the-curious-513fb62c1e60">
+                <div className="box">
+                  <h2>Elm for The Curious</h2>
+                  <p>The batteries included language for modern webapps</p>
+                </div>
+              </a>
+              <a rel="noopener noreferrer" target="_blank" href="https://medium.com/@davidson9076/diving-into-serverless-architecture-7ac13e6549d5">
+                <div className="box">
+                  <h2>Diving into Serverless Architecture</h2>
+                  <p>The trend that's abstracting servers away from developers</p>
+                </div>
+              </a>
+              <a target="_blank" href="https://medium.com/@davidson9076/web-performance-in-2018-ea718a0655e3">
+                <div className="box">
+                  <h2>Web Performance in 2018</h2>
+                  <p>Practical ways to speed up your slow site</p>
+                </div>
+              </a>
+              <a rel="noopener noreferrer" target="_blank" href="https://medium.com/@davidson9076/react-native-950939902b09">
+                <div className="box">
+                  <h2>React Native</h2>
+                  <p>Learn Once, Write Everywhere (Sort of)</p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
       <div className="section white-bg">
         <div className="section-content wow fadeInUp" style={{ visibility: 'visible', animationName: 'fadeInUp' }}>
           <div className="title">
